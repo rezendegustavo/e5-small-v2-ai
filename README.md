@@ -1,4 +1,9 @@
 ---
+language:
+- en
+license: mit
+library_name: sentence-transformers
+pipeline_tag: feature-extraction
 tags:
 - mteb
 model-index:
@@ -2596,10 +2601,6 @@ model-index:
       value: 85.98986606038852
     - type: max_f1
       value: 78.5277880014722
-language:
-- en
-license: mit
-library_name: sentence-transformers
 ---
 
 # E5-small-v2
