@@ -2599,6 +2599,7 @@ model-index:
 language:
 - en
 license: mit
+library_name: sentence-transformers
 ---
 
 # E5-small-v2
